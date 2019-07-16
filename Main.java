@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 class Main {
-
 	static Random rand = new Random();
 	static ArrayList<Integer> prob = new ArrayList<Integer>();
 	static float compScore = 0;
